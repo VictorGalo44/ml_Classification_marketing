@@ -17,9 +17,7 @@ Entender o conjunto de dados por meio de análises estatísticas e visuais;
 
 Pré-processar os dados, tratando valores ausentes, codificando variáveis categóricas e padronizando os dados;
 
-Construir e treinar modelos de classificação para prever se um cliente irá ou não aderir ao investimento;
-
-Avaliar o desempenho dos modelos usando métricas apropriadas, como acurácia, precisão, recall, F1-score e curva ROC;
+Construir e treinar modelos de classificação para prever se um cliente irá ou não aderir ao investimento;;
 
 Comparar os modelos construídos e selecionar o mais eficaz para o problema proposto.
 
